@@ -78,8 +78,6 @@ bibliography: references.bib
 > "...spices were still 88 per cent of Asian imports into Lisbon by 1610" @orourke2002, p. 27.
 :::
 
-. . . 
-
 ::: column
 #### early-19th century
 
