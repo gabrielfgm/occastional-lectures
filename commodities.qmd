@@ -1,0 +1,130 @@
+---
+title: "Commodities"
+author: "Gabriel Mesevage"
+format: revealjs
+bibliography: references.bib
+---
+
+## Commodity markets in the long-run
+
+-   Explore the debate on the 'timing of economic globalization'
+
+-   Think about how global trade relates to local economic activity
+
+-   Think about the differences between trade in non-competing vs competing goods
+
+## When does economic globalization occur? {.smaller}
+
+-   There is a long tradition of global connection through trade
+
+. . .
+
+> "...China sold silk textiles to India throughout nearly two millenia from the early years of the Han dynasty (206 BCE to 220 CE) to the period of the Ming dynasty (1368-1644)" [@dale2009]
+
+. . .
+
+> "there was a single global world economy with a worldwide division of labour and multilateral trade from 1500 onward' Frank 1998 quoted in @orourke2002. p. 24.
+
+. . .
+
+-   some argue pre-1500, many argue post-1500, some argue 18th/19th century
+
+## Plausible economic globalizations {.smaller}
+
+#### Is connection enough?
+
+> "The discovery of America, and that of a passage to the East Indies by the Cape of Good Hope, are the two greatest and most important events recorded in the history of mankind. ... By uniting, in some measure, the most distant parts of the world, by enabling them to relieve one another's wants, to increase one another's enjoyments, and to encourage one another's industry, their general tendency would seem to be beneficial." @smith2002, Book 4, ch. 7, part 3.
+
+. . .
+
+#### Or does scale matter?
+
+> "What remains ... in doubt is the contemporary impact or significance of these new configurations of long-distance trade ... it is far less clear what meaning the new connections had for those who lived in the sixteenth or even the seventeenth century" @tracy1990
+
+## The case for the 19th century
+
+> "This article looks at **just one dimension of globalization, international commodity trade**..." @orourke2002, p. 24.
+
+-   Trade volumes can fluctuate for many reasons
+-   But commodity market integration should imply convergence in the prices of traded goods in different places
+
+. . .
+
+> "...the only irrefutable evidence \[of economic globalization\] is ...commodity price convergence" @orourke2002, p. 26.
+
+## Why focus on prices?
+
+@orourke2002 argue that for commodity market to affect domestic economic life needs to do 2 things:
+
+1.  alter the prices of local goods
+2.  have the alteration cause local economic activity to change
+
+## The changing character of trade
+
+::::: columns
+::: column
+#### pre-18th century
+
+-   largely 'non-competing goods'
+    -   Europe imp. spices/silk/sugar/gold
+    -   Asia silver/linens/woolens
+
+> "...spices were still 88 per cent of Asian imports into Lisbon by 1610" @orourke2002, p. 27.
+:::
+
+::: column
+#### early-19th century
+
+> "...price gaps between trading partners fell sharply ... globalization forces had a big income distribution impact on long-distance trading partners" @orourke2002, p. 27.
+:::
+:::::
+
+## Shipping costs and mark-ups  {.smaller}
+
+![](images/clipboard-3793227898.png)
+
+*Source*: @orourke2002
+
+-   Monopoly and war keep transport costs high
+
+-   Until the beginning of the 19th century
+
+## The fall in shipping costs
+
+![](images/clipboard-2289348614.png)
+
+*Source*: @orourke2002, Figure 7
+
+## The impact of commodity market integration
+
+![](images/clipboard-356499560.png)
+
+*Source*: [@orourke1999]
+
+-   Changes in transport costs and scale drive convergence in cost of foodstuffs
+
+## Market integration: wages
+
+![](images/clipboard-153161964.png)
+
+-   Scale of trade pushes wages down in Americas and up in Europe
+
+## A world of price externalities
+
+> "...the unimaginably long and destructive American struggle, the world's first 'raw materials crisis', was midwife to the emergence of new global networks of labor, capital and state power." @beckert2004
+
+. . .
+
+> "From the 1840s through the 1860s, numbers on \[poor\] relief varied with the trade cycle, increasing during downturns and declining during booms. The Lancashire cotton famine, which affected only a small part of England and Wales, is clearly discernible..." @boyer2018, p. 86
+
+## The great specialization
+
+> "By 1913, international commodity markets were vastly more integrated than they had been in 1750, world trade accounted for a far higher share of world output, and a far broader range of goods, including commodities with a high bulk-to-value ratio, were being transported between continents. These trends ... had a dramatic impact on the worldwide division of labor... By the late nineteenth century there was a stark distinction between industrial and primary producing economies: the “Great Specialization,” as Dennis Robertson once memorably termed it (Robertson 1938, p. 6)." @findlay2009
+
+## Specialization and Trade
+
+![](images/clipboard-1613844499.png){width="1530"}
+
+*Source*: @findlay2009
+
+## Works Cited
