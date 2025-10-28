@@ -99,7 +99,7 @@ bibliography: references.bib
 
 *Source*: @orourke2002, Figure 7
 
-## The impact of commodity market integration
+## The impact of commodity market integration {.smaller}
 
 ![](images/clipboard-356499560.png)
 
@@ -107,9 +107,11 @@ bibliography: references.bib
 
 -   Changes in transport costs and scale drive convergence in cost of foodstuffs
 
-## Market integration: wages
+## Market integration: wages {.smaller}
 
 ![](images/clipboard-153161964.png)
+
+*Source*: [@orourke1999]
 
 -   Scale of trade pushes wages down in Americas and up in Europe
 
