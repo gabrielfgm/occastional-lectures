@@ -7,11 +7,15 @@ bibliography: references.bib
 
 ## Commodity markets in the long-run
 
+::: {.incremental}
+
 -   Explore the debate on the 'timing of economic globalization'
 
 -   Think about how global trade relates to local economic activity
 
 -   Think about the differences between trade in non-competing vs competing goods
+
+:::
 
 ## When does economic globalization occur? {.smaller}
 
@@ -41,7 +45,7 @@ bibliography: references.bib
 
 > "What remains ... in doubt is the contemporary impact or significance of these new configurations of long-distance trade ... it is far less clear what meaning the new connections had for those who lived in the sixteenth or even the seventeenth century" @tracy1990
 
-## The case for the 19th century
+## The case for the 19th century {.smaller}
 
 > "This article looks at **just one dimension of globalization, international commodity trade**..." @orourke2002, p. 24.
 
@@ -59,7 +63,7 @@ bibliography: references.bib
 1.  alter the prices of local goods
 2.  have the alteration cause local economic activity to change
 
-## The changing character of trade
+## The changing character of trade {.smaller}
 
 ::::: columns
 ::: column
@@ -117,7 +121,7 @@ bibliography: references.bib
 
 > "From the 1840s through the 1860s, numbers on \[poor\] relief varied with the trade cycle, increasing during downturns and declining during booms. The Lancashire cotton famine, which affected only a small part of England and Wales, is clearly discernible..." @boyer2018, p. 86
 
-## The great specialization
+## The great specialization {.smaller}
 
 > "By 1913, international commodity markets were vastly more integrated than they had been in 1750, world trade accounted for a far higher share of world output, and a far broader range of goods, including commodities with a high bulk-to-value ratio, were being transported between continents. These trends ... had a dramatic impact on the worldwide division of labor... By the late nineteenth century there was a stark distinction between industrial and primary producing economies: the “Great Specialization,” as Dennis Robertson once memorably termed it (Robertson 1938, p. 6)." @findlay2009
 
