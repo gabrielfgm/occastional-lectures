@@ -27,11 +27,13 @@ bibliography: references.bib
 
 . . .
 
-> "there was a single global world economy with a worldwide division of labour and multilateral trade from 1500 onward' Frank 1998 quoted in @orourke2002. p. 24.
+-   some argue pre-1500, many argue post-1500, some argue 18th/19th century
 
 . . .
 
--   some argue pre-1500, many argue post-1500, some argue 18th/19th century
+> "there was a single global world economy with a worldwide division of labour and multilateral trade from 1500 onward' Frank 1998 quoted in @orourke2002. p. 24.
+
+
 
 ## Plausible economic globalizations {.smaller}
 
